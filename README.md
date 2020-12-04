@@ -1,25 +1,76 @@
 # car_info_using_rails
-My First Rails app demonstrate CRUD Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Ruby on Rails
+My First Rails app demonstrate CRUD Application.
+- This is the first application for the
+MICROVERSE Ruby on Rails module
 
-Things you may want to cover:
+![screenshot](screenshot.png)
 
-* Ruby version
+## Getting Started
 
-* System dependencies
+- This app is functional item storage (in this case Car storage) with possibility to create, edit, update and delete items and their attributes (Make, Model, Year). App is connected to database accordingly.
 
-* Configuration
+## Live Demo
 
-* Database creation
+[Live Demo Link](https://pacific-earth-23493.herokuapp.com/)
 
-* Database initialization
+## On your Computer
 
-* How to run the test suite
+To get a local copy up and running follow these simple example steps.
 
-* Services (job queues, cache servers, search engines, etc.)
+## Prerequisites
 
-* Deployment instructions
+- Any PC or device with an internet connection and ability to use the command
+  line terminal
 
-* ...
+## Setup
+
+- Open the command line terminal
+
+## Install
+
+- Go to your preferred directory
+- Run `git clone https://github.com/Div685/car_info_using_rails.git` command
+- Install Rails with all dependencies in order to run local server and app in it:
+`install Rails`
+`bundle install`
+
+## Usage
+
+- Go to respective directory and run
+`rails server`
+- Open LOCALHOST:3000 in your browser
+
+
+
+## Built with
+
+- Ruby 2.7.0
+- Ruby on Rails 6.0.3.4
+
+## Author
+
+👤 **Divyesh Patel**
+
+- GitHub: [@Div685](https://github.com/Div685)
+- Twitter: [@div_685](https://www.linkedin.com/in/divyesh-patel-2a15a6107)
+- LinkedIn: [Divyesh Patel](https://www.linkedin.com/in/divyesh-patel-2a15a6107)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Ruby documentation
+- [Ruby Guides](https://www.rubyguides.com/)
+- [Michael Hartl](https://www.michaelhartl.com/)
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
