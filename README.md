@@ -55,7 +55,7 @@ To get a local copy up and running follow these simple example steps.
 
 - GitHub: [@Div685](https://github.com/Div685)
 - Twitter: [@div_685](https://www.linkedin.com/in/divyesh-patel-2a15a6107)
-- LinkedIn: [Divyesh Patel](https://www.linkedin.com/in/divyesh-patel-2a15a6107)
+- LinkedIn: [Divyesh Patel](https://www.linkedin.com/in/divyesh-daxa-patel)
 
 ## 🤝 Contributing
 
